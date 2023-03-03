@@ -5,6 +5,6 @@
 
  ![project screenshot](guesser.JPG)
 
-Credits
+## Credits
 
 - Jonas Schmedtmann
